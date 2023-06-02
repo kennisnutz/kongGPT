@@ -17,8 +17,8 @@ A collection of Ai powered tools
 
 # Frameworks and Packages
 
-a. NextJs
-b. Next-auth
-c.
+1. NextJs
+2. Next-auth
+3. Prisma
 
 #
